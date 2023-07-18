@@ -16,6 +16,11 @@
 </p>
 
 
+<table width="100%" border='0'>
+    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+</table>
+  </br>
+
 ### 🛠️ Stack and tools:
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo/pycharm.png"></code>
@@ -33,7 +38,7 @@
   <code><img width="5%" title="Postman" src="images/logo/postman.png"></code>
 </p>
 
-## 💾 Projects:
+## 💾 Дипломный проект:
 ### UI autotests
 ##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Book_SHOP](https://github.com/EvaOk85/Book_Shop_Diplom_UI_tests)
 
