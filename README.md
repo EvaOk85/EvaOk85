@@ -31,18 +31,14 @@
   <code><img width="5%" title="Allure TestOps" src="images/logo/allure_testops.png"></code>
   <code><img width="5%" title="Jira" src="images/logo/jira.png"></code>
   <code><img width="5%" title="Confluence" src="images/logo/confluence.png"></code>
-  <code><img width="5%" title="Xcode" src="images/logo/xcode.png"></code>
   <code><img width="5%" title="Postman" src="images/logo/postman.png"></code>
   <code><img width="5%" title="Telegram" src="images/logo/tg.png"></code>
-  <code><img width="5%" title="Slack" src="images/logo/slack.png"></code>
-  <code><img width="5%" title="PgAdmin" src="images/logo/pgadmin.png"></code>
-  <code><img width="5%" title="Xmind" src="images/logo/xmind.png"></code>
 </p>
 
 ## 💾 Projects:
 ### UI autotests
-##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Book_House](https://github.com/AlesyaSW/Book_House_Diploma_UI)
+##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Book_SHOP](https://github.com/EvaOk85/Book_Shop_Diplom_UI_tests)
 
 ### API autotests
-##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Diploma_API](https://github.com/AlesyaSW/diploma_api)
+##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Diploma_API]()
 &#8287;&#8287;&#8287;&#8287;&#8287;
