@@ -17,7 +17,7 @@
 
 
 <table width="100%" border='0'>
-    <tr><td width="30%" valign="bottom"><img src="images/logo/qa.jpg"/"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="images/logo/qa.jpg"/></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
 </table>
   </br>
 
