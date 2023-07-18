@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=9775e0)
+### Hi there 👋
 
 ## 👩‍💻Обо мне
 Меня зовут Евгения.
