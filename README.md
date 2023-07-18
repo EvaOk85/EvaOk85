@@ -22,7 +22,6 @@
   <code><img width="5%" title="Python" src="images/logo/python.png"></code>
   <code><img width="5%" title="Pytest" src="images/logo/pytest.png"></code>
   <code><img width="5%" title="Selene" src="images/logo/selene.png"></code>
-  <code><img width="5%" title="Selenium" src="images/logo/selenium.png"></code>
   <code><img width="5%" title="Requests" src="images/logo/requests.png"></code>
   <code><img width="5%" title="GitHub" src="images/logo/github.png"></code>
   <code><img width="5%" title="Jenkins" src="images/logo/jenkins.png"></code>
@@ -32,7 +31,6 @@
   <code><img width="5%" title="Jira" src="images/logo/jira.png"></code>
   <code><img width="5%" title="Confluence" src="images/logo/confluence.png"></code>
   <code><img width="5%" title="Postman" src="images/logo/postman.png"></code>
-  <code><img width="5%" title="Telegram" src="images/logo/tg.png"></code>
 </p>
 
 ## 💾 Projects:
