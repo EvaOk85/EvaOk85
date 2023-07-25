@@ -43,5 +43,5 @@
 ##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Book_SHOP](https://github.com/EvaOk85/Book_Shop_Diplom_UI_tests)
 
 ### API autotests
-##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Diploma_API]()
+##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Reqres]()
 &#8287;&#8287;&#8287;&#8287;&#8287;
